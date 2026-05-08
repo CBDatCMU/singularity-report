@@ -22,7 +22,7 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 from typing import Dict, List, Tuple, Optional
 
 # ── Config ─────────────────────────────────────────────────────────────────────
-ORG = "pscedu"
+ORG = "CBDatCMU"
 PROJECT_PREFIX = "singularity"
 OUTPUT = "README.md"
 TSV_OUTPUT = "data.tsv"
@@ -134,7 +134,7 @@ UTIL_REPOS = [
 VIZ_REPOS = ["gimp", "inkscape"]
 
 HEADER = """# List of Singularity definition files, modulefiles and more
-[![Build it!](https://github.com/pscedu/singularity/actions/workflows/build.yml/badge.svg)](https://github.com/pscedu/singularity/actions/workflows/build.yml)
+[![Build it!](https://github.com/CBDatCMU/singularity/actions/workflows/build.yml/badge.svg)](https://github.com/CBDatCMU/singularity/actions/workflows/build.yml)
 
 This repository lists the Singularity definition files and other files needed to deploy software on Bridges2 and similar systems maintained by the Pittsburgh Supercomputing Center.
 """
