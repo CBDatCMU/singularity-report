@@ -243,7 +243,7 @@ def build_row(
     container_display = format_status(container_status)
     return (
         f"| {category_label} | [{repo}]({base}) | {latest} | {last_commit} | "
-        f"{container_display} | {format_status(build_ready)} | {format_status(publish_ready)} |\n"
+        f"{container_display} | {format_status(build_ready)} | {format_status(publish_ready)} | ☐ |\n"
     )
 
 
@@ -346,9 +346,9 @@ def write_tables() -> None:
         md.write(banner)
         md.write(HEADER)
         md.write(
-            "| Category | Name | Latest | Last Commit | Container | Build ready | Publishing ready |\n"
+            "| Category | Name | Latest | Last Commit | Container | Build ready | Publishing ready | TODO |\n"
         )
-        md.write("| --- | --- | --- | --- | --- | --- | --- |\n")
+        md.write("| --- | --- | --- | --- | --- | --- | --- | --- |\n")
         for cat, repo in items:
             md.write(
                 build_row(
@@ -366,14 +366,14 @@ def write_tables() -> None:
     # data.tsv
     with open(TSV_OUTPUT, "w", encoding="utf-8") as tsv:
         tsv.write(
-            "Category\tName\tLatest\tLast Commit\tContainer\tBuild ready\tPublishing ready\n"
+            "Category\tName\tLatest\tLast Commit\tContainer\tBuild ready\tPublishing ready\tTODO\n"
         )
         for cat, repo in items:
             container_display = (
                 container_map[repo] if container_map[repo] is not None else "None"
             )
             tsv.write(
-                f"{cat}\t{repo}\t{latest_map[repo]}\t{commit_map[repo]}\t{container_display}\t{build_map[repo]}\t{publish_map[repo]}\n"
+                f"{cat}\t{repo}\t{latest_map[repo]}\t{commit_map[repo]}\t{container_display}\t{build_map[repo]}\t{publish_map[repo]}\t☐\n"
             )
 
 
