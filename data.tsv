@@ -27,7 +27,7 @@ Utility	circos	—	—	None	False	False	☐
 Scientific tool	cutadapt	—	—	None	False	False	☐
 Utility	cwltool	—	—	None	False	False	☐
 Utility	dua	—	—	None	False	False	☐
-Utility	dust	—	—	None	False	False	☐
+Utility	dust	—	2026-05-10	None	True	True	☐
 Scientific tool	fastani	—	—	None	False	False	☐
 Scientific tool	fastq-tools	—	—	None	False	False	☐
 Scientific tool	fastqc	—	—	None	False	False	☐
@@ -94,5 +94,5 @@ Scientific tool	trimmomatic	—	—	None	False	False	☐
 Scientific tool	vcf2maf	—	—	None	False	False	☐
 Scientific tool	viennarna	—	—	None	False	False	☐
 Utility	vim	—	—	None	False	False	☐
-Utility	visidata	—	—	None	False	False	☐
+Utility	visidata	—	2026-05-10	None	True	True	☐
 Utility	wordgrinder	—	—	None	False	False	☐

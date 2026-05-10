@@ -34,7 +34,7 @@ This repository lists the Singularity definition files and other files needed to
 | Scientific tool | [cutadapt](https://github.com/CBDatCMU/singularity-cutadapt) | — | — | None | ❌ | ❌ | ☐ |
 | Utility | [cwltool](https://github.com/CBDatCMU/singularity-cwltool) | — | — | None | ❌ | ❌ | ☐ |
 | Utility | [dua](https://github.com/CBDatCMU/singularity-dua) | — | — | None | ❌ | ❌ | ☐ |
-| Utility | [dust](https://github.com/CBDatCMU/singularity-dust) | — | — | None | ❌ | ❌ | ☐ |
+| Utility | [dust](https://github.com/CBDatCMU/singularity-dust) | — | 2026-05-10 | None | ✅ | ✅ | ☐ |
 | Scientific tool | [fastani](https://github.com/CBDatCMU/singularity-fastani) | — | — | None | ❌ | ❌ | ☐ |
 | Scientific tool | [fastq-tools](https://github.com/CBDatCMU/singularity-fastq-tools) | — | — | None | ❌ | ❌ | ☐ |
 | Scientific tool | [fastqc](https://github.com/CBDatCMU/singularity-fastqc) | — | — | None | ❌ | ❌ | ☐ |
@@ -101,7 +101,7 @@ This repository lists the Singularity definition files and other files needed to
 | Scientific tool | [vcf2maf](https://github.com/CBDatCMU/singularity-vcf2maf) | — | — | None | ❌ | ❌ | ☐ |
 | Scientific tool | [viennarna](https://github.com/CBDatCMU/singularity-viennarna) | — | — | None | ❌ | ❌ | ☐ |
 | Utility | [vim](https://github.com/CBDatCMU/singularity-vim) | — | — | None | ❌ | ❌ | ☐ |
-| Utility | [visidata](https://github.com/CBDatCMU/singularity-visidata) | — | — | None | ❌ | ❌ | ☐ |
+| Utility | [visidata](https://github.com/CBDatCMU/singularity-visidata) | — | 2026-05-10 | None | ✅ | ✅ | ☐ |
 | Utility | [wordgrinder](https://github.com/CBDatCMU/singularity-wordgrinder) | — | — | None | ❌ | ❌ | ☐ |
 ---
 Copyright © 2020-2026 Pittsburgh Supercomputing Center. All Rights Reserved.
