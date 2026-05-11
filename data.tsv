@@ -6,7 +6,7 @@ Utility	asciinema	—	—	None	False	False	☐
 Scientific tool	aspera-connect	—	—	None	False	False	☐
 Scientific tool	augustus	—	—	None	False	False	☐
 Utility	aws-cli	—	—	None	False	False	☐
-Scientific tool	bamtools	—	2026-05-11	None	True	False	☐
+Scientific tool	bamtools	—	2026-05-11	None	True	True	☐
 Utility	bat	—	—	None	False	False	☐
 Scientific tool	bcftools	—	—	None	False	False	☐
 Scientific tool	bedops	—	—	None	False	False	☐

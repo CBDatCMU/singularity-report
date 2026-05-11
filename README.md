@@ -13,7 +13,7 @@ This repository lists the Singularity definition files and other files needed to
 | Scientific tool | [aspera-connect](https://github.com/CBDatCMU/singularity-aspera-connect) | — | — | None | ❌ | ❌ | ☐ |
 | Scientific tool | [augustus](https://github.com/CBDatCMU/singularity-augustus) | — | — | None | ❌ | ❌ | ☐ |
 | Utility | [aws-cli](https://github.com/CBDatCMU/singularity-aws-cli) | — | — | None | ❌ | ❌ | ☐ |
-| Scientific tool | [bamtools](https://github.com/CBDatCMU/singularity-bamtools) | — | 2026-05-11 | None | ✅ | ❌ | ☐ |
+| Scientific tool | [bamtools](https://github.com/CBDatCMU/singularity-bamtools) | — | 2026-05-11 | None | ✅ | ✅ | ☐ |
 | Utility | [bat](https://github.com/CBDatCMU/singularity-bat) | — | — | None | ❌ | ❌ | ☐ |
 | Scientific tool | [bcftools](https://github.com/CBDatCMU/singularity-bcftools) | — | — | None | ❌ | ❌ | ☐ |
 | Scientific tool | [bedops](https://github.com/CBDatCMU/singularity-bedops) | — | — | None | ❌ | ❌ | ☐ |
