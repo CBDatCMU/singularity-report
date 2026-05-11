@@ -6,7 +6,7 @@ Utility	asciinema	—	—	None	False	False	☐
 Scientific tool	aspera-connect	—	—	None	False	False	☐
 Scientific tool	augustus	—	—	None	False	False	☐
 Utility	aws-cli	—	—	None	False	False	☐
-Scientific tool	bamtools	—	2024-10-03	None	False	False	☐
+Scientific tool	bamtools	—	2026-05-11	None	True	False	☐
 Utility	bat	—	—	None	False	False	☐
 Scientific tool	bcftools	—	—	None	False	False	☐
 Scientific tool	bedops	—	—	None	False	False	☐
@@ -17,7 +17,7 @@ Scientific tool	blast	—	—	None	False	False	☐
 Scientific tool	blat	—	—	None	False	False	☐
 Scientific tool	bowtie2	—	—	None	False	False	☐
 Scientific tool	braker2	—	—	None	False	False	☐
-Utility	browsh	—	2019-11-19	None	False	False	☐
+Utility	browsh	—	2026-05-11	None	True	False	☐
 Scientific tool	bsmap	—	—	None	False	False	☐
 Utility	btop	—	—	None	False	False	☐
 Scientific tool	busco	—	—	None	False	False	☐
@@ -27,7 +27,7 @@ Utility	circos	—	—	None	False	False	☐
 Scientific tool	cutadapt	—	—	None	False	False	☐
 Utility	cwltool	—	—	None	False	False	☐
 Utility	dua	—	—	None	False	False	☐
-Utility	dust	—	2026-05-10	None	True	True	☐
+Utility	dust	—	2026-05-11	None	True	True	☐
 Scientific tool	fastani	—	—	None	False	False	☐
 Scientific tool	fastq-tools	—	—	None	False	False	☐
 Scientific tool	fastqc	—	—	None	False	False	☐
@@ -94,5 +94,5 @@ Scientific tool	trimmomatic	—	—	None	False	False	☐
 Scientific tool	vcf2maf	—	—	None	False	False	☐
 Scientific tool	viennarna	—	—	None	False	False	☐
 Utility	vim	—	—	None	False	False	☐
-Utility	visidata	—	2026-05-10	None	True	True	☐
+Utility	visidata	—	2026-05-11	None	True	True	☐
 Utility	wordgrinder	—	—	None	False	False	☐
