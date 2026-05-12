@@ -133,7 +133,7 @@ UTIL_REPOS = [
 
 VIZ_REPOS = ["gimp", "inkscape"]
 
-CHECKED_REPOS = {"dust", "octave", "visidata"}
+CHECKED_REPOS = {"dust", "gotop", "octave", "visidata"}
 
 HEADER = """# List of Singularity definition files, modulefiles and more
 
