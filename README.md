@@ -101,6 +101,5 @@ This repository lists the Singularity definition files and other files needed to
 | Scientific tool | [viennarna](https://github.com/CBDatCMU/singularity-viennarna) | — | — | None | ❌ | ❌ | ☐ |
 | Utility | [vim](https://github.com/CBDatCMU/singularity-vim) | — | — | None | ❌ | ❌ | ☐ |
 | Utility | [visidata](https://github.com/CBDatCMU/singularity-visidata) | v3.3 | 2026-05-12 | ✅ | ✅ | ✅ | ☑ |
-| Utility | [wordgrinder](https://github.com/CBDatCMU/singularity-wordgrinder) | — | — | None | ❌ | ❌ | ☐ |
 ---
 Copyright © 2020-2026 Pittsburgh Supercomputing Center. All Rights Reserved.
