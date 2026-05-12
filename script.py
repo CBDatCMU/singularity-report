@@ -133,6 +133,8 @@ UTIL_REPOS = [
 
 VIZ_REPOS = ["gimp", "inkscape"]
 
+CHECKED_REPOS = {"dust", "octave"}
+
 HEADER = """# List of Singularity definition files, modulefiles and more
 [![Build it!](https://github.com/CBDatCMU/singularity/actions/workflows/build.yml/badge.svg)](https://github.com/CBDatCMU/singularity/actions/workflows/build.yml)
 
@@ -241,9 +243,10 @@ def build_row(
 ) -> str:
     base = f"https://github.com/{ORG}/{PROJECT_PREFIX}-{repo}"
     container_display = format_status(container_status)
+    todo = "☑" if repo in CHECKED_REPOS else "☐"
     return (
         f"| {category_label} | [{repo}]({base}) | {latest} | {last_commit} | "
-        f"{container_display} | {format_status(build_ready)} | {format_status(publish_ready)} | ☐ |\n"
+        f"{container_display} | {format_status(build_ready)} | {format_status(publish_ready)} | {todo} |\n"
     )
 
 
@@ -372,8 +375,9 @@ def write_tables() -> None:
             container_display = (
                 container_map[repo] if container_map[repo] is not None else "None"
             )
+            todo = "☑" if repo in CHECKED_REPOS else "☐"
             tsv.write(
-                f"{cat}\t{repo}\t{latest_map[repo]}\t{commit_map[repo]}\t{container_display}\t{build_map[repo]}\t{publish_map[repo]}\t☐\n"
+                f"{cat}\t{repo}\t{latest_map[repo]}\t{commit_map[repo]}\t{container_display}\t{build_map[repo]}\t{publish_map[repo]}\t{todo}\n"
             )
 
 
