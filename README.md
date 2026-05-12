@@ -1,8 +1,6 @@
 ![coverage:2%](https://img.shields.io/badge/coverage-2%25-red)
 
 # List of Singularity definition files, modulefiles and more
-[![Build it!](https://github.com/CBDatCMU/singularity/actions/workflows/build.yml/badge.svg)](https://github.com/CBDatCMU/singularity/actions/workflows/build.yml)
-
 This repository lists the Singularity definition files and other files needed to deploy software on Bridges2 and similar systems maintained by the Pittsburgh Supercomputing Center.
 | Category | Name | Latest | Last Commit | Container | Build ready | Publishing ready | TODO |
 | --- | --- | --- | --- | --- | --- | --- | --- |
