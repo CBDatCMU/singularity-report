@@ -1,6 +1,7 @@
-![coverage:2%](https://img.shields.io/badge/coverage-2%25-red)
+![coverage:3%](https://img.shields.io/badge/coverage-3%25-red)
 
 # List of Singularity definition files, modulefiles and more
+
 This repository lists the Singularity definition files and other files needed to deploy software on Bridges2 and similar systems maintained by the Pittsburgh Supercomputing Center.
 | Category | Name | Latest | Last Commit | Container | Build ready | Publishing ready | TODO |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -99,7 +100,7 @@ This repository lists the Singularity definition files and other files needed to
 | Scientific tool | [vcf2maf](https://github.com/CBDatCMU/singularity-vcf2maf) | — | — | None | ❌ | ❌ | ☐ |
 | Scientific tool | [viennarna](https://github.com/CBDatCMU/singularity-viennarna) | — | — | None | ❌ | ❌ | ☐ |
 | Utility | [vim](https://github.com/CBDatCMU/singularity-vim) | — | — | None | ❌ | ❌ | ☐ |
-| Utility | [visidata](https://github.com/CBDatCMU/singularity-visidata) | — | 2026-05-11 | None | ✅ | ✅ | ☐ |
+| Utility | [visidata](https://github.com/CBDatCMU/singularity-visidata) | v3.3 | 2026-05-12 | ✅ | ✅ | ✅ | ☑ |
 | Utility | [wordgrinder](https://github.com/CBDatCMU/singularity-wordgrinder) | — | — | None | ❌ | ❌ | ☐ |
 ---
 Copyright © 2020-2026 Pittsburgh Supercomputing Center. All Rights Reserved.
