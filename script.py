@@ -99,7 +99,6 @@ UTIL_REPOS = [
     "dua",
     "vim",
     "libtiff-tools",
-    "wordgrinder",
     "shellcheck",
     "pandiff",
     "rich-cli",
