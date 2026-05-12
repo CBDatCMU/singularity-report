@@ -13,7 +13,7 @@ This repository lists the Singularity definition files and other files needed to
 | Scientific tool | [augustus](https://github.com/CBDatCMU/singularity-augustus) | — | — | None | ❌ | ❌ | ☐ |
 | Utility | [aws-cli](https://github.com/CBDatCMU/singularity-aws-cli) | — | — | None | ❌ | ❌ | ☐ |
 | Scientific tool | [bamtools](https://github.com/CBDatCMU/singularity-bamtools) | v2.5.2 | 2026-05-12 | ✅ | ✅ | ✅ | ☑ |
-| Utility | [bat](https://github.com/CBDatCMU/singularity-bat) | — | — | None | ❌ | ❌ | ☐ |
+| Utility | [bat](https://github.com/CBDatCMU/singularity-bat) | v0.26.1 | 2026-05-12 | ✅ | ✅ | ❌ | ☐ |
 | Scientific tool | [bcftools](https://github.com/CBDatCMU/singularity-bcftools) | — | — | None | ❌ | ❌ | ☐ |
 | Scientific tool | [bedops](https://github.com/CBDatCMU/singularity-bedops) | — | — | None | ❌ | ❌ | ☐ |
 | Scientific tool | [bedtools](https://github.com/CBDatCMU/singularity-bedtools) | — | — | None | ❌ | ❌ | ☐ |
