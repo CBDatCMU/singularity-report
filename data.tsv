@@ -6,7 +6,7 @@ Utility	asciinema	—	—	None	False	False	☐
 Scientific tool	aspera-connect	—	—	None	False	False	☐
 Scientific tool	augustus	—	—	None	False	False	☐
 Utility	aws-cli	—	—	None	False	False	☐
-Scientific tool	bamtools	—	2026-05-11	None	True	True	☐
+Scientific tool	bamtools	—	2026-05-12	None	True	True	☐
 Utility	bat	—	—	None	False	False	☐
 Scientific tool	bcftools	—	—	None	False	False	☐
 Scientific tool	bedops	—	—	None	False	False	☐
@@ -27,7 +27,7 @@ Utility	circos	—	—	None	False	False	☐
 Scientific tool	cutadapt	—	—	None	False	False	☐
 Utility	cwltool	—	—	None	False	False	☐
 Utility	dua	—	—	None	False	False	☐
-Utility	dust	—	2026-05-11	None	True	True	☐
+Utility	dust	v1.2.4	2026-05-12	True	True	True	☑
 Scientific tool	fastani	—	—	None	False	False	☐
 Scientific tool	fastq-tools	—	—	None	False	False	☐
 Scientific tool	fastqc	—	—	None	False	False	☐
@@ -67,7 +67,7 @@ Scientific tool	methylpy	—	—	None	False	False	☐
 Scientific tool	nanoplot	—	—	None	False	False	☐
 Utility	ncdu	—	—	None	False	False	☐
 Scientific tool	ncview	—	—	None	False	False	☐
-Scientific tool	octave	—	—	None	False	False	☐
+Scientific tool	octave	v11.1.0	2026-05-12	True	True	True	☑
 Utility	pandiff	—	—	None	False	False	☐
 Utility	pandoc	—	—	None	False	False	☐
 Utility	papis	—	—	None	False	False	☐
