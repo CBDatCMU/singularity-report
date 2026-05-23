@@ -27,7 +27,7 @@ Utility	circos	—	—	None	False	False	☐
 Scientific tool	cutadapt	—	—	None	False	False	☐
 Utility	cwltool	—	—	None	False	False	☐
 Utility	dua	—	—	None	False	False	☐
-Utility	dust	v1.2.4	2026-05-12	None	True	True	☑
+Utility	dust	v1.2.4	2026-05-12	True	True	True	☑
 Scientific tool	fastani	—	—	None	False	False	☐
 Scientific tool	fastq-tools	—	—	None	False	False	☐
 Scientific tool	fastqc	—	—	None	False	False	☐

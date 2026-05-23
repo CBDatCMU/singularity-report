@@ -1,4 +1,4 @@
-![coverage:2%](https://img.shields.io/badge/coverage-2%25-red)
+![coverage:3%](https://img.shields.io/badge/coverage-3%25-red)
 
 # List of Singularity definition files, modulefiles and more
 
@@ -33,7 +33,7 @@ This repository lists the Singularity definition files and other files needed to
 | Scientific tool | [cutadapt](https://github.com/CBDatCMU/singularity-cutadapt) | — | — | None | ❌ | ❌ | ☐ |
 | Utility | [cwltool](https://github.com/CBDatCMU/singularity-cwltool) | — | — | None | ❌ | ❌ | ☐ |
 | Utility | [dua](https://github.com/CBDatCMU/singularity-dua) | — | — | None | ❌ | ❌ | ☐ |
-| Utility | [dust](https://github.com/CBDatCMU/singularity-dust) | v1.2.4 | 2026-05-12 | None | ✅ | ✅ | ☑ |
+| Utility | [dust](https://github.com/CBDatCMU/singularity-dust) | v1.2.4 | 2026-05-12 | ✅ | ✅ | ✅ | ☑ |
 | Scientific tool | [fastani](https://github.com/CBDatCMU/singularity-fastani) | — | — | None | ❌ | ❌ | ☐ |
 | Scientific tool | [fastq-tools](https://github.com/CBDatCMU/singularity-fastq-tools) | — | — | None | ❌ | ❌ | ☐ |
 | Scientific tool | [fastqc](https://github.com/CBDatCMU/singularity-fastqc) | — | — | None | ❌ | ❌ | ☐ |
