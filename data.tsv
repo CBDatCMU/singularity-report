@@ -8,7 +8,7 @@ Scientific tool	augustus	—	—	None	False	False	☐
 Utility	aws-cli	—	—	None	False	False	☐
 Scientific tool	bamtools	v2.5.2	2026-05-21	True	False	True	☑
 Utility	bat	v0.26.1	2026-05-12	True	True	False	☐
-Scientific tool	bcftools	—	—	None	False	False	☐
+Scientific tool	bcftools	—	2026-06-15	None	True	True	☐
 Scientific tool	bedops	—	—	None	False	False	☐
 Scientific tool	bedtools	—	—	None	False	False	☐
 Scientific tool	bioformats2raw	—	—	None	False	False	☐
@@ -87,10 +87,10 @@ Utility	shellcheck	—	—	None	False	False	☐
 Scientific tool	spades	—	—	None	False	False	☐
 Scientific tool	sra-toolkit	—	—	None	False	False	☐
 Scientific tool	star	—	—	None	False	False	☐
-Scientific tool	star-fusion	—	—	None	False	False	☐
+Scientific tool	star-fusion	—	2026-06-15	None	True	False	☐
 Scientific tool	stride	—	—	None	False	False	☐
 Scientific tool	tiger	—	—	None	False	False	☐
-Scientific tool	trimmomatic	—	—	None	False	False	☐
+Scientific tool	trimmomatic	—	2026-06-15	None	True	False	☐
 Scientific tool	vcf2maf	—	—	None	False	False	☐
 Scientific tool	viennarna	—	—	None	False	False	☐
 Utility	vim	—	—	None	False	False	☐
