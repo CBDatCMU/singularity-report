@@ -87,10 +87,10 @@ Utility	shellcheck	—	—	None	False	False	☐
 Scientific tool	spades	—	—	None	False	False	☐
 Scientific tool	sra-toolkit	—	—	None	False	False	☐
 Scientific tool	star	—	—	None	False	False	☐
-Scientific tool	star-fusion	—	2026-06-15	None	True	False	☐
+Scientific tool	star-fusion	v1.15.1	2026-06-15	True	True	True	☐
 Scientific tool	stride	—	—	None	False	False	☐
 Scientific tool	tiger	—	—	None	False	False	☐
-Scientific tool	trimmomatic	—	2026-06-15	None	True	False	☐
+Scientific tool	trimmomatic	v0.40	2026-06-15	True	True	False	☐
 Scientific tool	vcf2maf	—	—	None	False	False	☐
 Scientific tool	viennarna	—	—	None	False	False	☐
 Utility	vim	—	—	None	False	False	☐

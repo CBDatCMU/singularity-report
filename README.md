@@ -1,4 +1,4 @@
-![coverage:3%](https://img.shields.io/badge/coverage-3%25-red)
+![coverage:4%](https://img.shields.io/badge/coverage-4%25-red)
 
 # List of Singularity definition files, modulefiles and more
 
@@ -93,10 +93,10 @@ This repository lists the Singularity definition files and other files needed to
 | Scientific tool | [spades](https://github.com/CBDatCMU/singularity-spades) | — | — | None | ❌ | ❌ | ☐ |
 | Scientific tool | [sra-toolkit](https://github.com/CBDatCMU/singularity-sra-toolkit) | — | — | None | ❌ | ❌ | ☐ |
 | Scientific tool | [star](https://github.com/CBDatCMU/singularity-star) | — | — | None | ❌ | ❌ | ☐ |
-| Scientific tool | [star-fusion](https://github.com/CBDatCMU/singularity-star-fusion) | — | 2026-06-15 | None | ✅ | ❌ | ☐ |
+| Scientific tool | [star-fusion](https://github.com/CBDatCMU/singularity-star-fusion) | v1.15.1 | 2026-06-15 | ✅ | ✅ | ✅ | ☐ |
 | Scientific tool | [stride](https://github.com/CBDatCMU/singularity-stride) | — | — | None | ❌ | ❌ | ☐ |
 | Scientific tool | [tiger](https://github.com/CBDatCMU/singularity-tiger) | — | — | None | ❌ | ❌ | ☐ |
-| Scientific tool | [trimmomatic](https://github.com/CBDatCMU/singularity-trimmomatic) | — | 2026-06-15 | None | ✅ | ❌ | ☐ |
+| Scientific tool | [trimmomatic](https://github.com/CBDatCMU/singularity-trimmomatic) | v0.40 | 2026-06-15 | ✅ | ✅ | ❌ | ☐ |
 | Scientific tool | [vcf2maf](https://github.com/CBDatCMU/singularity-vcf2maf) | — | — | None | ❌ | ❌ | ☐ |
 | Scientific tool | [viennarna](https://github.com/CBDatCMU/singularity-viennarna) | — | — | None | ❌ | ❌ | ☐ |
 | Utility | [vim](https://github.com/CBDatCMU/singularity-vim) | — | — | None | ❌ | ❌ | ☐ |
