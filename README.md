@@ -14,7 +14,7 @@ This repository lists the Singularity definition files and other files needed to
 | Utility | [aws-cli](https://github.com/CBDatCMU/singularity-aws-cli) | — | — | None | ❌ | ❌ | ☐ |
 | Scientific tool | [bamtools](https://github.com/CBDatCMU/singularity-bamtools) | v2.5.2 | 2026-05-21 | ✅ | ❌ | ✅ | ☑ |
 | Utility | [bat](https://github.com/CBDatCMU/singularity-bat) | v0.26.1 | 2026-05-12 | ✅ | ✅ | ❌ | ☐ |
-| Scientific tool | [bcftools](https://github.com/CBDatCMU/singularity-bcftools) | — | 2026-06-15 | None | ✅ | ✅ | ☐ |
+| Scientific tool | [bcftools](https://github.com/CBDatCMU/singularity-bcftools) | — | 2026-06-16 | None | ✅ | ✅ | ☐ |
 | Scientific tool | [bedops](https://github.com/CBDatCMU/singularity-bedops) | — | — | None | ❌ | ❌ | ☐ |
 | Scientific tool | [bedtools](https://github.com/CBDatCMU/singularity-bedtools) | — | — | None | ❌ | ❌ | ☐ |
 | Scientific tool | [bioformats2raw](https://github.com/CBDatCMU/singularity-bioformats2raw) | — | — | None | ❌ | ❌ | ☐ |
@@ -93,10 +93,10 @@ This repository lists the Singularity definition files and other files needed to
 | Scientific tool | [spades](https://github.com/CBDatCMU/singularity-spades) | — | — | None | ❌ | ❌ | ☐ |
 | Scientific tool | [sra-toolkit](https://github.com/CBDatCMU/singularity-sra-toolkit) | — | — | None | ❌ | ❌ | ☐ |
 | Scientific tool | [star](https://github.com/CBDatCMU/singularity-star) | — | — | None | ❌ | ❌ | ☐ |
-| Scientific tool | [star-fusion](https://github.com/CBDatCMU/singularity-star-fusion) | v1.15.1 | 2026-06-15 | ✅ | ✅ | ✅ | ☐ |
+| Scientific tool | [star-fusion](https://github.com/CBDatCMU/singularity-star-fusion) | v1.15.1 | 2026-06-16 | ✅ | ✅ | ✅ | ☐ |
 | Scientific tool | [stride](https://github.com/CBDatCMU/singularity-stride) | — | — | None | ❌ | ❌ | ☐ |
 | Scientific tool | [tiger](https://github.com/CBDatCMU/singularity-tiger) | — | — | None | ❌ | ❌ | ☐ |
-| Scientific tool | [trimmomatic](https://github.com/CBDatCMU/singularity-trimmomatic) | v0.40 | 2026-06-15 | ✅ | ✅ | ❌ | ☐ |
+| Scientific tool | [trimmomatic](https://github.com/CBDatCMU/singularity-trimmomatic) | v0.40 | 2026-06-16 | ✅ | ✅ | ❌ | ☐ |
 | Scientific tool | [vcf2maf](https://github.com/CBDatCMU/singularity-vcf2maf) | — | — | None | ❌ | ❌ | ☐ |
 | Scientific tool | [viennarna](https://github.com/CBDatCMU/singularity-viennarna) | — | — | None | ❌ | ❌ | ☐ |
 | Utility | [vim](https://github.com/CBDatCMU/singularity-vim) | — | — | None | ❌ | ❌ | ☐ |
