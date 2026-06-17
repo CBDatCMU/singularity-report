@@ -8,7 +8,7 @@ Scientific tool	augustus	—	—	None	False	False	☐
 Utility	aws-cli	—	—	None	False	False	☐
 Scientific tool	bamtools	v2.5.2	2026-06-17	True	False	True	☑
 Utility	bat	v0.26.1	2026-05-12	True	True	False	☐
-Scientific tool	bcftools	—	2026-06-16	None	True	True	☐
+Scientific tool	bcftools	—	2026-06-17	None	False	True	☐
 Scientific tool	bedops	—	—	None	False	False	☐
 Scientific tool	bedtools	—	—	None	False	False	☐
 Scientific tool	bioformats2raw	—	—	None	False	False	☐
@@ -38,7 +38,7 @@ Scientific tool	filtlong	—	—	None	False	False	☐
 Utility	flac	—	—	None	False	False	☐
 Scientific tool	flash	—	—	None	False	False	☐
 Scientific tool	funannotate	—	—	None	False	False	☐
-Scientific tool	gatk	—	2026-06-16	None	True	False	☐
+Scientific tool	gatk	v4.6.2.0	2026-06-17	True	True	True	☐
 Utility	gcalcli	—	—	None	False	False	☐
 Scientific tool	genemark-es	—	—	None	False	False	☐
 Scientific tool	gent	—	—	None	False	False	☐
@@ -86,12 +86,12 @@ Scientific tool	samtools	—	—	None	False	False	☐
 Utility	shellcheck	—	—	None	False	False	☐
 Scientific tool	spades	—	—	None	False	False	☐
 Scientific tool	sra-toolkit	—	—	None	False	False	☐
-Scientific tool	star	—	2026-06-16	None	True	False	☐
-Scientific tool	star-fusion	v1.15.1	2026-06-17	True	True	True	☐
+Scientific tool	star	—	2026-06-17	None	False	True	☐
+Scientific tool	star-fusion	v1.15.1	2026-06-17	True	False	True	☐
 Scientific tool	stride	—	—	None	False	False	☐
 Scientific tool	tiger	—	—	None	False	False	☐
-Scientific tool	trimmomatic	v0.40	2026-06-16	True	True	False	☐
-Scientific tool	vcf2maf	—	—	None	False	False	☐
+Scientific tool	trimmomatic	v0.40	2026-06-17	True	True	False	☐
+Scientific tool	vcf2maf	—	2026-06-17	None	True	False	☐
 Scientific tool	viennarna	—	—	None	False	False	☐
 Utility	vim	—	—	None	False	False	☐
 Utility	visidata	v3.3	2026-05-12	True	True	True	☑
