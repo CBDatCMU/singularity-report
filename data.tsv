@@ -6,7 +6,7 @@ Utility	asciinema	—	—	None	False	False	☐
 Scientific tool	aspera-connect	—	—	None	False	False	☐
 Scientific tool	augustus	—	—	None	False	False	☐
 Utility	aws-cli	—	—	None	False	False	☐
-Scientific tool	bamtools	v2.5.2	2026-05-21	True	False	True	☑
+Scientific tool	bamtools	v2.5.2	2026-06-17	True	False	True	☑
 Utility	bat	v0.26.1	2026-05-12	True	True	False	☐
 Scientific tool	bcftools	—	2026-06-16	None	True	True	☐
 Scientific tool	bedops	—	—	None	False	False	☐
@@ -87,7 +87,7 @@ Utility	shellcheck	—	—	None	False	False	☐
 Scientific tool	spades	—	—	None	False	False	☐
 Scientific tool	sra-toolkit	—	—	None	False	False	☐
 Scientific tool	star	—	—	None	False	False	☐
-Scientific tool	star-fusion	v1.15.1	2026-06-16	True	True	True	☐
+Scientific tool	star-fusion	v1.15.1	2026-06-17	True	True	True	☐
 Scientific tool	stride	—	—	None	False	False	☐
 Scientific tool	tiger	—	—	None	False	False	☐
 Scientific tool	trimmomatic	v0.40	2026-06-16	True	True	False	☐

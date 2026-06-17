@@ -12,7 +12,7 @@ This repository lists the Singularity definition files and other files needed to
 | Scientific tool | [aspera-connect](https://github.com/CBDatCMU/singularity-aspera-connect) | — | — | None | ❌ | ❌ | ☐ |
 | Scientific tool | [augustus](https://github.com/CBDatCMU/singularity-augustus) | — | — | None | ❌ | ❌ | ☐ |
 | Utility | [aws-cli](https://github.com/CBDatCMU/singularity-aws-cli) | — | — | None | ❌ | ❌ | ☐ |
-| Scientific tool | [bamtools](https://github.com/CBDatCMU/singularity-bamtools) | v2.5.2 | 2026-05-21 | ✅ | ❌ | ✅ | ☑ |
+| Scientific tool | [bamtools](https://github.com/CBDatCMU/singularity-bamtools) | v2.5.2 | 2026-06-17 | ✅ | ❌ | ✅ | ☑ |
 | Utility | [bat](https://github.com/CBDatCMU/singularity-bat) | v0.26.1 | 2026-05-12 | ✅ | ✅ | ❌ | ☐ |
 | Scientific tool | [bcftools](https://github.com/CBDatCMU/singularity-bcftools) | — | 2026-06-16 | None | ✅ | ✅ | ☐ |
 | Scientific tool | [bedops](https://github.com/CBDatCMU/singularity-bedops) | — | — | None | ❌ | ❌ | ☐ |
@@ -93,7 +93,7 @@ This repository lists the Singularity definition files and other files needed to
 | Scientific tool | [spades](https://github.com/CBDatCMU/singularity-spades) | — | — | None | ❌ | ❌ | ☐ |
 | Scientific tool | [sra-toolkit](https://github.com/CBDatCMU/singularity-sra-toolkit) | — | — | None | ❌ | ❌ | ☐ |
 | Scientific tool | [star](https://github.com/CBDatCMU/singularity-star) | — | — | None | ❌ | ❌ | ☐ |
-| Scientific tool | [star-fusion](https://github.com/CBDatCMU/singularity-star-fusion) | v1.15.1 | 2026-06-16 | ✅ | ✅ | ✅ | ☐ |
+| Scientific tool | [star-fusion](https://github.com/CBDatCMU/singularity-star-fusion) | v1.15.1 | 2026-06-17 | ✅ | ✅ | ✅ | ☐ |
 | Scientific tool | [stride](https://github.com/CBDatCMU/singularity-stride) | — | — | None | ❌ | ❌ | ☐ |
 | Scientific tool | [tiger](https://github.com/CBDatCMU/singularity-tiger) | — | — | None | ❌ | ❌ | ☐ |
 | Scientific tool | [trimmomatic](https://github.com/CBDatCMU/singularity-trimmomatic) | v0.40 | 2026-06-16 | ✅ | ✅ | ❌ | ☐ |
