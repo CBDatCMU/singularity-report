@@ -44,7 +44,7 @@ This repository lists the Singularity definition files and other files needed to
 | Utility | [flac](https://github.com/CBDatCMU/singularity-flac) | — | — | None | ❌ | ❌ | ☐ |
 | Scientific tool | [flash](https://github.com/CBDatCMU/singularity-flash) | — | — | None | ❌ | ❌ | ☐ |
 | Scientific tool | [funannotate](https://github.com/CBDatCMU/singularity-funannotate) | — | — | None | ❌ | ❌ | ☐ |
-| Scientific tool | [gatk](https://github.com/CBDatCMU/singularity-gatk) | — | — | None | ❌ | ❌ | ☐ |
+| Scientific tool | [gatk](https://github.com/CBDatCMU/singularity-gatk) | — | 2026-06-16 | None | ✅ | ❌ | ☐ |
 | Utility | [gcalcli](https://github.com/CBDatCMU/singularity-gcalcli) | — | — | None | ❌ | ❌ | ☐ |
 | Scientific tool | [genemark-es](https://github.com/CBDatCMU/singularity-genemark-es) | — | — | None | ❌ | ❌ | ☐ |
 | Scientific tool | [gent](https://github.com/CBDatCMU/singularity-gent) | — | — | None | ❌ | ❌ | ☐ |

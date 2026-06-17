@@ -38,7 +38,7 @@ Scientific tool	filtlong	—	—	None	False	False	☐
 Utility	flac	—	—	None	False	False	☐
 Scientific tool	flash	—	—	None	False	False	☐
 Scientific tool	funannotate	—	—	None	False	False	☐
-Scientific tool	gatk	—	—	None	False	False	☐
+Scientific tool	gatk	—	2026-06-16	None	True	False	☐
 Utility	gcalcli	—	—	None	False	False	☐
 Scientific tool	genemark-es	—	—	None	False	False	☐
 Scientific tool	gent	—	—	None	False	False	☐
