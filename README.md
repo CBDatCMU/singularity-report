@@ -92,7 +92,7 @@ This repository lists the Singularity definition files and other files needed to
 | Utility | [shellcheck](https://github.com/CBDatCMU/singularity-shellcheck) | — | — | None | ❌ | ❌ | ☐ |
 | Scientific tool | [spades](https://github.com/CBDatCMU/singularity-spades) | — | — | None | ❌ | ❌ | ☐ |
 | Scientific tool | [sra-toolkit](https://github.com/CBDatCMU/singularity-sra-toolkit) | — | — | None | ❌ | ❌ | ☐ |
-| Scientific tool | [star](https://github.com/CBDatCMU/singularity-star) | — | — | None | ❌ | ❌ | ☐ |
+| Scientific tool | [star](https://github.com/CBDatCMU/singularity-star) | — | 2026-06-16 | None | ✅ | ❌ | ☐ |
 | Scientific tool | [star-fusion](https://github.com/CBDatCMU/singularity-star-fusion) | v1.15.1 | 2026-06-17 | ✅ | ✅ | ✅ | ☐ |
 | Scientific tool | [stride](https://github.com/CBDatCMU/singularity-stride) | — | — | None | ❌ | ❌ | ☐ |
 | Scientific tool | [tiger](https://github.com/CBDatCMU/singularity-tiger) | — | — | None | ❌ | ❌ | ☐ |

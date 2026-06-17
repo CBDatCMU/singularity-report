@@ -86,7 +86,7 @@ Scientific tool	samtools	—	—	None	False	False	☐
 Utility	shellcheck	—	—	None	False	False	☐
 Scientific tool	spades	—	—	None	False	False	☐
 Scientific tool	sra-toolkit	—	—	None	False	False	☐
-Scientific tool	star	—	—	None	False	False	☐
+Scientific tool	star	—	2026-06-16	None	True	False	☐
 Scientific tool	star-fusion	v1.15.1	2026-06-17	True	True	True	☐
 Scientific tool	stride	—	—	None	False	False	☐
 Scientific tool	tiger	—	—	None	False	False	☐
