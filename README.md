@@ -1,4 +1,4 @@
-![coverage:4%](https://img.shields.io/badge/coverage-4%25-red)
+![coverage:6%](https://img.shields.io/badge/coverage-6%25-red)
 
 # List of Singularity definition files, modulefiles and more
 
@@ -12,7 +12,7 @@ This repository lists the Singularity definition files and other files needed to
 | Scientific tool | [aspera-connect](https://github.com/CBDatCMU/singularity-aspera-connect) | — | — | None | ❌ | ❌ | ☐ |
 | Scientific tool | [augustus](https://github.com/CBDatCMU/singularity-augustus) | — | — | None | ❌ | ❌ | ☐ |
 | Utility | [aws-cli](https://github.com/CBDatCMU/singularity-aws-cli) | — | — | None | ❌ | ❌ | ☐ |
-| Scientific tool | [bamtools](https://github.com/CBDatCMU/singularity-bamtools) | v2.5.2 | 2026-06-17 | ✅ | ❌ | ✅ | ☑ |
+| Scientific tool | [bamtools](https://github.com/CBDatCMU/singularity-bamtools) | v2.5.2 | 2026-06-18 | ✅ | ✅ | ✅ | ☑ |
 | Utility | [bat](https://github.com/CBDatCMU/singularity-bat) | v0.26.1 | 2026-05-12 | ✅ | ✅ | ❌ | ☐ |
 | Scientific tool | [bcftools](https://github.com/CBDatCMU/singularity-bcftools) | — | 2026-06-17 | None | ❌ | ✅ | ☐ |
 | Scientific tool | [bedops](https://github.com/CBDatCMU/singularity-bedops) | — | — | None | ❌ | ❌ | ☐ |
@@ -92,7 +92,7 @@ This repository lists the Singularity definition files and other files needed to
 | Utility | [shellcheck](https://github.com/CBDatCMU/singularity-shellcheck) | — | — | None | ❌ | ❌ | ☐ |
 | Scientific tool | [spades](https://github.com/CBDatCMU/singularity-spades) | — | — | None | ❌ | ❌ | ☐ |
 | Scientific tool | [sra-toolkit](https://github.com/CBDatCMU/singularity-sra-toolkit) | — | — | None | ❌ | ❌ | ☐ |
-| Scientific tool | [star](https://github.com/CBDatCMU/singularity-star) | — | 2026-06-17 | None | ❌ | ✅ | ☐ |
+| Scientific tool | [star](https://github.com/CBDatCMU/singularity-star) | v2.7.11b | 2026-06-18 | ✅ | ✅ | ✅ | ☐ |
 | Scientific tool | [star-fusion](https://github.com/CBDatCMU/singularity-star-fusion) | v1.15.1 | 2026-06-17 | ✅ | ❌ | ✅ | ☐ |
 | Scientific tool | [stride](https://github.com/CBDatCMU/singularity-stride) | — | — | None | ❌ | ❌ | ☐ |
 | Scientific tool | [tiger](https://github.com/CBDatCMU/singularity-tiger) | — | — | None | ❌ | ❌ | ☐ |
