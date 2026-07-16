@@ -6,9 +6,9 @@ Utility	asciinema	—	—	None	False	False	☐
 Scientific tool	aspera-connect	—	—	None	False	False	☐
 Scientific tool	augustus	—	—	None	False	False	☐
 Utility	aws-cli	—	—	None	False	False	☐
-Scientific tool	bamtools	v2.5.2	2026-06-18	True	True	True	☑
-Utility	bat	v0.26.1	2026-05-12	True	True	False	☐
-Scientific tool	bcftools	—	2026-06-17	None	False	True	☐
+Scientific tool	bamtools	—	—	None	True	True	☑
+Utility	bat	—	—	None	True	False	☐
+Scientific tool	bcftools	—	—	None	False	True	☐
 Scientific tool	bedops	—	—	None	False	False	☐
 Scientific tool	bedtools	—	—	None	False	False	☐
 Scientific tool	bioformats2raw	—	—	None	False	False	☐
@@ -17,7 +17,7 @@ Scientific tool	blast	—	—	None	False	False	☐
 Scientific tool	blat	—	—	None	False	False	☐
 Scientific tool	bowtie2	—	—	None	False	False	☐
 Scientific tool	braker2	—	—	None	False	False	☐
-Utility	browsh	—	2026-05-11	None	True	False	☐
+Utility	browsh	—	—	None	True	False	☐
 Scientific tool	bsmap	—	—	None	False	False	☐
 Utility	btop	—	—	None	False	False	☐
 Scientific tool	busco	—	—	None	False	False	☐
@@ -27,7 +27,7 @@ Utility	circos	—	—	None	False	False	☐
 Scientific tool	cutadapt	—	—	None	False	False	☐
 Utility	cwltool	—	—	None	False	False	☐
 Utility	dua	—	—	None	False	False	☐
-Utility	dust	v1.2.4	2026-05-12	True	True	True	☑
+Utility	dust	—	—	None	True	True	☑
 Scientific tool	fastani	—	—	None	False	False	☐
 Scientific tool	fastq-tools	—	—	None	False	False	☐
 Scientific tool	fastqc	—	—	None	False	False	☐
@@ -38,7 +38,7 @@ Scientific tool	filtlong	—	—	None	False	False	☐
 Utility	flac	—	—	None	False	False	☐
 Scientific tool	flash	—	—	None	False	False	☐
 Scientific tool	funannotate	—	—	None	False	False	☐
-Scientific tool	gatk	v4.6.2.0	2026-06-17	True	True	True	☐
+Scientific tool	gatk	—	—	None	True	True	☐
 Utility	gcalcli	—	—	None	False	False	☐
 Scientific tool	genemark-es	—	—	None	False	False	☐
 Scientific tool	gent	—	—	None	False	False	☐
@@ -67,7 +67,7 @@ Scientific tool	methylpy	—	—	None	False	False	☐
 Scientific tool	nanoplot	—	—	None	False	False	☐
 Utility	ncdu	—	—	None	False	False	☐
 Scientific tool	ncview	—	—	None	False	False	☐
-Scientific tool	octave	v11.1.0	2026-05-12	True	True	True	☑
+Scientific tool	octave	—	—	None	True	True	☑
 Utility	pandiff	—	—	None	False	False	☐
 Utility	pandoc	—	—	None	False	False	☐
 Utility	papis	—	—	None	False	False	☐
@@ -86,12 +86,12 @@ Scientific tool	samtools	—	—	None	False	False	☐
 Utility	shellcheck	—	—	None	False	False	☐
 Scientific tool	spades	—	—	None	False	False	☐
 Scientific tool	sra-toolkit	—	—	None	False	False	☐
-Scientific tool	star	v2.7.11b	2026-06-18	True	True	True	☐
-Scientific tool	star-fusion	v1.15.1	2026-06-17	True	False	True	☐
+Scientific tool	star	—	—	None	True	True	☐
+Scientific tool	star-fusion	—	—	None	False	True	☐
 Scientific tool	stride	—	—	None	False	False	☐
 Scientific tool	tiger	—	—	None	False	False	☐
-Scientific tool	trimmomatic	v0.40	2026-06-17	True	True	False	☐
-Scientific tool	vcf2maf	—	2026-06-17	None	True	False	☐
+Scientific tool	trimmomatic	—	—	None	True	False	☐
+Scientific tool	vcf2maf	—	—	None	True	False	☐
 Scientific tool	viennarna	—	—	None	False	False	☐
 Utility	vim	—	—	None	False	False	☐
-Utility	visidata	v3.3	2026-05-12	True	True	True	☑
+Utility	visidata	—	—	None	True	True	☑
